@@ -64,7 +64,7 @@ Untuk memastikan lingkungan yang ramah dan produktif bagi semua anggota, kami me
 
 Jika Anda mengalami atau menyaksikan perilaku yang melanggar pedoman ini:
 1. Hubungi pengurus atau penyelenggara mana pun
-2. Kirim email ke [conduct@example.com]
+2. Kirim email ke qgisid@gmail.com
 3. Semua laporan akan ditangani secara rahasia
 
 ### Konsekuensi
@@ -98,6 +98,6 @@ Aturan ini dapat diperbarui dari waktu ke waktu. Anggota akan diberitahu tentang
 
 ## Pertanyaan?
 
-Jika Anda memiliki pertanyaan tentang aturan ini, hubungi kami di [contact@example.com]
+Jika Anda memiliki pertanyaan tentang aturan ini, hubungi kami di qgisid@gmail.com
 
 {{< content-end >}}

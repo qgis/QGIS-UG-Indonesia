@@ -16,16 +16,15 @@ Ikuti perkembangan pertemuan, lokakarya, dan konferensi kami. Bergabunglah untuk
 
 {{< rich-box-start layoutClass="has-right rounded" >}}
 {{< rich-content-start themeClass="coloring-2" >}}
-### Pertemuan QGIS Indonesia (Placeholder)
+### Segera hadir
 
-Kapan: [Tanggal]  
-Di mana: [Kota / Online]
+Pantau terus kanal komunikasi kami untuk informasi acara mendatang.
 
-{{< button class = "is-primary1" link = "https://id.qgis.org/" text = "Selengkapnya" >}} 
+{{< button class = "is-primary1" link = "https://t.me/qgisindonesia" text = "Gabung Telegram" >}} 
 
 {{< rich-content-end >}}
 {{< rich-right-start >}}
-![](https://id.qgis.org/visualization_center.webp)
+![](/img/meetup-2.jpg)
 {{< rich-right-end >}}
 {{< rich-box-end >}}
 
@@ -76,14 +75,30 @@ Pantau terus pengumuman lokakarya mendatang.
 
 ## Acara Sebelumnya
 
-[Tambahkan informasi tentang acara sebelumnya, presentasi, atau tautan ke rekaman]
+### Meetup #2 — 20 Maret 2021 (Virtual via Zoom)
+
+![Meetup #2](/img/meetup-2.jpg)
+
+### Meetup #1 — 29 Februari 2020 (Yogyakarta)
+
+![Meetup #1](/img/meetup-1.jpeg)
+
+### KuQis (Kuliah QGIS)
+
+Seri edukasi online rutin yang membahas berbagai topik QGIS:
+
+- **KuQis #1** — "Membuat WebGIS Menggunakan QGIS2Web" oleh Muhammad Anshori (10 Mei 2020) — [Tonton di YouTube](https://youtu.be/kSXymzlP-1w)
+- **KuQis #2** — "Automated Map Production Using QGIS/PyQGIS" oleh Gunawan Wisnu Wardhana & "Visualisasi Grafik Pada QGIS Dengan Data Plotly dan Google Spreadsheet" oleh Danang Wijaya (14 Juni 2020) — [Tonton di YouTube](https://youtu.be/-NWeyNFFgwM)
+- **KuQis #3** — "Tentang Geopackage" oleh Suherman (29 Agustus 2020) — [Tonton di YouTube](https://youtu.be/Y7wODUMAnkQ)
+
+Ingin menjadi pembicara KuQis? [Daftar di sini](https://docs.google.com/forms/d/e/1FAIpQLSfMKUOhZoycAsD2KKyNRdk29fP5ej6vfonvjJgVQmdJQiQjwQ/viewform).
 
 
 {{< rich-box-start icon="💁" layoutClass="tips">}}
 {{< rich-content-start themeClass="coloring-1" >}}
 ##### Ikut Terlibat
 
-Ingin presentasi di pertemuan berikutnya atau menyelenggarakan acara? Hubungi kami di [email-kontak]
+Ingin presentasi di pertemuan berikutnya atau menyelenggarakan acara? Hubungi kami di qgisid@gmail.com
 
 
 {{< rich-content-end >}}

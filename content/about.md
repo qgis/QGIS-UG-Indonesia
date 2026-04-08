@@ -50,10 +50,15 @@ Kami menyambut semua orang yang tertarik dengan QGIS, dari pemula hingga profesi
 
 ## Hubungi Kami
 
-- **Email:** [email@example.com]
-- **Mailing List:** [tautan ke mailing list]
-- **Media Sosial:** [tautan ke media sosial]
-- **Chat:** [tautan ke platform chat jika tersedia]
+- **Email:** qgisid@gmail.com
+- **Mailing List:** [QGIS-ID Google Group](https://groups.google.com/forum/#!forum/qgis-id)
+- **Telegram:** [QGIS Indonesia](https://t.me/qgisindonesia)
+- **Facebook:** [QGIS Indonesia](https://www.facebook.com/qgisid) | [Grup Forum](https://www.facebook.com/groups/forumQGISindo/)
+- **Twitter/X:** [@qgisid](https://twitter.com/qgisid)
+- **Instagram:** [@qgisid](https://instagram.com/qgisid)
+- **YouTube:** [QGIS Indonesia](https://www.youtube.com/channel/UCt4Qt1ZGkF9s6uZcnl7r4UQ)
+- **GitHub:** [qgis-id](https://github.com/qgis-id)
+- **Blog:** [qgisid.home.blog](https://qgisid.home.blog)
 
 ## Afiliasi
 

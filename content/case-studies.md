@@ -30,7 +30,7 @@ Menampilkan proyek, implementasi, dan kisah dampak dari komunitas QGIS Indonesia
 {{< rich-content-start themeClass="coloring-1" >}}
 ##### Kirim Studi Kasus
 
-Punya proyek untuk ditampilkan? Kirim detail ke [studi-kasus@example.com].
+Punya proyek untuk ditampilkan? Kirim detail ke qgisid@gmail.com.
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}

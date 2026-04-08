@@ -17,11 +17,11 @@ Temukan perusahaan, kontributor, dan produk yang mendukung QGIS di Indonesia.
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-1" >}}
 
-### Perusahaan & Mitra
+### Organisasi Pendukung
 
-- **[Nama perusahaan]** — Layanan, lokasi, kontak
-- **[Nama perusahaan]** — Layanan, lokasi, kontak
-- **[Nama perusahaan]** — Layanan, lokasi, kontak
+- **[Peta Bencana Indonesia](https://petabencana.id/)** — Platform pemetaan bencana berbasis komunitas
+- **[OSGEO ID Local Chapter](https://osgeo.id/)** — Komunitas open-source geospasial Indonesia
+- **[Perkumpulan OpenStreetMap Indonesia](https://openstreetmap.id/)** — Komunitas pemetaan terbuka Indonesia
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
@@ -63,9 +63,10 @@ Temukan perusahaan, kontributor, dan produk yang mendukung QGIS di Indonesia.
 
 ### Cara Bergabung
 
-- Email: [komunitas@example.com]
-- Gabung chat kami: [tautan]
-- Ikuti pembaruan: [tautan media sosial]
+- Email: qgisid@gmail.com
+- Telegram: [QGIS Indonesia](https://t.me/qgisindonesia)
+- Facebook: [Grup Forum QGIS Indonesia](https://www.facebook.com/groups/forumQGISindo/)
+- Daftar sukarelawan: [Formulir pendaftaran](https://forms.gle/GC3B2xaXpUba8Xot6)
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
