@@ -1,7 +1,7 @@
 ---
 type: "page"
-title: "About Us"
-subtitle: "Meet our community"
+title: "Tentang Kami"
+subtitle: "Mengenal komunitas kami"
 draft: false
 sidebar: true
 url: "/about-us/"
@@ -9,54 +9,54 @@ url: "/about-us/"
 
 {{< content-start >}}
 
-# About Us
+# Tentang Kami
 
-We are a QGIS User Group, committed to promoting open-source geospatial technology and supporting practitioners.
+Kami adalah Komunitas Pengguna QGIS Indonesia, berkomitmen untuk mempromosikan teknologi geospasial open-source dan mendukung para praktisi di Indonesia.
 
-## Our Mission
+## Misi Kami
 
-Our mission is to:
-- Foster collaboration among QGIS users
-- Promote knowledge sharing and best practices
-- Support the growth of open-source GIS
-- Contribute to the global QGIS community
-- Provide learning opportunities for all skill levels
+Misi kami adalah:
+- Mendorong kolaborasi antar pengguna QGIS di Indonesia
+- Mempromosikan berbagi pengetahuan dan praktik terbaik
+- Mendukung pertumbuhan GIS open-source
+- Berkontribusi pada komunitas QGIS global
+- Menyediakan kesempatan belajar untuk semua tingkat keahlian
 
-## Our Team
+## Tim Kami
 
-### Coordinators / Leadership
+### Koordinator / Pengurus
 
-- **Coordinator:** [Name]
-- **Regional/Local Leads:** [Names by region]
-- **Volunteers:** [Roles: outreach, events, training, comms]
+- **Koordinator:** [Nama]
+- **Koordinator Regional:** [Nama berdasarkan wilayah]
+- **Sukarelawan:** [Peran: penjangkauan, acara, pelatihan, komunikasi]
 
-### Active Members
+### Anggota Aktif
 
-We have members from diverse backgrounds including:
-- GIS professionals
-- Environmental scientists
-- Urban planners
-- Researchers
-- Students
-- Hobbyists
+Kami memiliki anggota dari berbagai latar belakang termasuk:
+- Profesional GIS
+- Ilmuwan lingkungan
+- Perencana kota
+- Peneliti
+- Mahasiswa
+- Penghobi
 
-## Our Community
+## Komunitas Kami
 
-We welcome everyone interested in QGIS, from complete beginners to experienced professionals. Our community values:
-- **Openness:** We embrace open-source principles and open collaboration
-- **Inclusivity:** Everyone is welcome regardless of background or skill level
-- **Learning:** We support continuous learning and knowledge sharing
-- **Contribution:** We encourage active participation and giving back to the community
+Kami menyambut semua orang yang tertarik dengan QGIS, dari pemula hingga profesional berpengalaman. Nilai-nilai komunitas kami:
+- **Keterbukaan:** Kami menganut prinsip open-source dan kolaborasi terbuka
+- **Inklusivitas:** Semua orang disambut tanpa memandang latar belakang atau tingkat keahlian
+- **Pembelajaran:** Kami mendukung pembelajaran berkelanjutan dan berbagi pengetahuan
+- **Kontribusi:** Kami mendorong partisipasi aktif dan memberikan kembali kepada komunitas
 
-## Contact Us
+## Hubungi Kami
 
-- **Email:** [your-email@example.com]
-- **Mailing List:** [link to mailing list]
-- **Social Media:** [links to social media]
-- **Chat:** [link to chat platform if available]
+- **Email:** [email@example.com]
+- **Mailing List:** [tautan ke mailing list]
+- **Media Sosial:** [tautan ke media sosial]
+- **Chat:** [tautan ke platform chat jika tersedia]
 
-## Affiliations
+## Afiliasi
 
-We are an official QGIS User Group recognized by the [QGIS Project](https://qgis.org). Learn more about QGIS User Groups [here](https://qgis.org/community/groups/).
+Kami adalah Komunitas Pengguna QGIS resmi yang diakui oleh [QGIS Project](https://qgis.org). Pelajari lebih lanjut tentang Komunitas Pengguna QGIS [di sini](https://qgis.org/community/groups/).
 
 {{< content-end >}}

@@ -1,25 +1,25 @@
 ---
 type: "page"
-title: "Case Studies"
-subtitle: "Local success stories"
+title: "Studi Kasus"
+subtitle: "Kisah sukses lokal"
 draft: false
 sidebar: true
 ---
 
 {{< content-start >}}
 
-# Case Studies
+# Studi Kasus
 
-Showcasing projects, implementations, and impact stories from the QGIS community.
+Menampilkan proyek, implementasi, dan kisah dampak dari komunitas QGIS Indonesia.
 
 {{< columns-start >}}
 {{< column-start class="is-flex-direction-column is-full">}}
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-1" >}}
 
-- **[Project title]** — [1–2 line summary of the outcome and location]
-- **[Project title]** — [1–2 line summary of the outcome and location]
-- **[Project title]** — [1–2 line summary of the outcome and location]
+- **[Judul proyek]** — [Ringkasan 1-2 baris tentang hasil dan lokasi]
+- **[Judul proyek]** — [Ringkasan 1-2 baris tentang hasil dan lokasi]
+- **[Judul proyek]** — [Ringkasan 1-2 baris tentang hasil dan lokasi]
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
@@ -28,9 +28,9 @@ Showcasing projects, implementations, and impact stories from the QGIS community
 
 {{< rich-box-start icon="🗂️" layoutClass="tips">}}
 {{< rich-content-start themeClass="coloring-1" >}}
-##### Submit a Case Study
+##### Kirim Studi Kasus
 
-Have a project to feature? Share details at [case-studies@example.com].
+Punya proyek untuk ditampilkan? Kirim detail ke [studi-kasus@example.com].
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}

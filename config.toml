@@ -1,8 +1,8 @@
 # May be overwritten in .github/workflows/github-pages.yml or other config files
 # Update baseURL for your specific User Group deployment
-baseURL = 'https://usergroup.qgis.org/'
-languageCode = 'en-us'
-title = 'QGIS User Group Template'
+baseURL = 'https://id.qgis.org/'
+languageCode = 'id'
+title = 'QGIS Indonesia'
 theme = 'qgis-website-theme'
 # Default pagination.
 # Can override this when needed e.g. {{ range (.Paginator 5).Pages }}
@@ -82,16 +82,16 @@ fancy-font = "'Sevillana', cursive"
 
 ## Gh repo edit link
 ## This repo is used for the "Edit this page" link
-githubRepo = "https://github.com/qgis/QGIS-User-Group-Website/"
+githubRepo = "https://github.com/qgis-id/web/"
 githubSubdir = "content"
 githubBranch = "main"
 
 ## Gh repo for site footer (include trailing slash)
-githubUrl = "https://github.com/qgis/QGIS-User-Group-Website/"
+githubUrl = "https://github.com/qgis-id/web/"
 ## GH Repo for filing a new issue
-githubIssueUrl = "https://github.com/qgis/QGIS-User-Group-Website/issues/new/choose"
+githubIssueUrl = "https://github.com/qgis-id/web/issues/new/choose"
 ### Edit content repo (set to automatically enter "edit" mode; this is good for "improve this page" links)
-githubEditUrl = "https://github.com/qgis/QGIS-User-Group-Website/edit/main"
+githubEditUrl = "https://github.com/qgis-id/web/edit/main"
 ### Radius for boxes
 corner-radius = "0px"
 
@@ -143,32 +143,32 @@ sectionPagesMenu = 'main'
 # See https://gohugo.io/content-management/menus/
 [menu]
 [[menu.main]]
-  name = "Home"
+  name = "Beranda"
   url = "/"
   weight = 10
 
 [[menu.main]]
-  name = "About Us"
+  name = "Tentang Kami"
   url = "/about-us/"
   weight = 20
 
 [[menu.main]]
-  name = "Case Studies"
+  name = "Studi Kasus"
   url = "/case-studies/"
   weight = 30
 
 [[menu.main]]
-  name = "Events"
+  name = "Acara"
   url = "/events/"
   weight = 40
 
 [[menu.main]]
-  name = "Community"
+  name = "Komunitas"
   url = "/community/"
   weight = 50
 
 [[menu.main]]
-  name = "Tutorials"
+  name = "Tutorial"
   url = "/tutorials/"
   weight = 60
 
@@ -178,7 +178,7 @@ sectionPagesMenu = 'main'
   weight = 70
 
 [[menu.main]]
-  name = "Rules"
+  name = "Aturan"
   url = "/rules/"
   weight = 80
 

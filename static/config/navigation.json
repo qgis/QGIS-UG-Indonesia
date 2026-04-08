@@ -3,47 +3,47 @@
     {
       "type": "menu",
       "settings": {
-        "name": "QGIS [Country]",
+        "name": "QGIS Indonesia",
         "children": [
           {
             "type": "second-menu",
             "settings": {
-              "name": "Home",
+              "name": "Beranda",
               "href": "/"
             }
           },
           {
             "type": "second-menu",
             "settings": {
-              "name": "About Us",
+              "name": "Tentang Kami",
               "href": "/about-us/"
             }
           },
           {
             "type": "second-menu",
             "settings": {
-              "name": "Case Studies",
+              "name": "Studi Kasus",
               "href": "/case-studies/"
             }
           },
           {
             "type": "second-menu",
             "settings": {
-              "name": "Events",
+              "name": "Acara",
               "href": "/events/"
             }
           },
           {
             "type": "second-menu",
             "settings": {
-              "name": "Community",
+              "name": "Komunitas",
               "href": "/community/"
             }
           },
           {
             "type": "second-menu",
             "settings": {
-              "name": "Tutorials",
+              "name": "Tutorial",
               "href": "/tutorials/"
             }
           },
@@ -57,7 +57,7 @@
           {
             "type": "second-menu",
             "settings": {
-              "name": "Rules",
+              "name": "Aturan",
               "href": "/rules/"
             }
           }

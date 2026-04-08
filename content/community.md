@@ -1,27 +1,27 @@
 ---
 type: "page"
-title: "Community"
-subtitle: "QGIS ecosystem"
+title: "Komunitas"
+subtitle: "Ekosistem QGIS Indonesia"
 draft: false
 sidebar: true
 ---
 
 {{< content-start >}}
 
-# QGIS User Group Ecosystem
+# Ekosistem QGIS Indonesia
 
-Discover companies, contributors, and products supporting QGIS.
+Temukan perusahaan, kontributor, dan produk yang mendukung QGIS di Indonesia.
 
 {{< columns-start >}}
 {{< column-start class="is-flex-direction-column is-half">}}
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-1" >}}
 
-### Companies & Partners
+### Perusahaan & Mitra
 
-- **[Company name]** — Services offered, location, contact
-- **[Company name]** — Services offered, location, contact
-- **[Company name]** — Services offered, location, contact
+- **[Nama perusahaan]** — Layanan, lokasi, kontak
+- **[Nama perusahaan]** — Layanan, lokasi, kontak
+- **[Nama perusahaan]** — Layanan, lokasi, kontak
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
@@ -31,11 +31,11 @@ Discover companies, contributors, and products supporting QGIS.
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-1" >}}
 
-### Plugins & Products
+### Plugin & Produk
 
-- **[Plugin/product]** — Short description, link
-- **[Plugin/product]** — Short description, link
-- **[Plugin/product]** — Short description, link
+- **[Plugin/produk]** — Deskripsi singkat, tautan
+- **[Plugin/produk]** — Deskripsi singkat, tautan
+- **[Plugin/produk]** — Deskripsi singkat, tautan
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
@@ -47,11 +47,11 @@ Discover companies, contributors, and products supporting QGIS.
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-1" >}}
 
-### Contributors & Volunteers
+### Kontributor & Sukarelawan
 
-- **[Name]** — Role (events, training, outreach)
-- **[Name]** — Role (plugins, documentation)
-- **[Name]** — Role (community)
+- **[Nama]** — Peran (acara, pelatihan, penjangkauan)
+- **[Nama]** — Peran (plugin, dokumentasi)
+- **[Nama]** — Peran (komunitas)
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
@@ -61,11 +61,11 @@ Discover companies, contributors, and products supporting QGIS.
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-1" >}}
 
-### How to Join
+### Cara Bergabung
 
-- Email: [community@example.com]
-- Join our chat: [link]
-- Follow updates: [social links]
+- Email: [komunitas@example.com]
+- Gabung chat kami: [tautan]
+- Ikuti pembaruan: [tautan media sosial]
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}

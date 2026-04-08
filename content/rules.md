@@ -1,103 +1,103 @@
 ---
 type: "page"
-title: "Rules"
-subtitle: "Community guidelines and code of conduct"
+title: "Aturan"
+subtitle: "Pedoman komunitas dan kode etik"
 draft: false
 sidebar: true
 ---
 
 {{< content-start >}}
 
-# Rules and Guidelines
+# Aturan dan Pedoman
 
-To ensure a welcoming and productive environment for all members, we ask everyone to follow these guidelines.
+Untuk memastikan lingkungan yang ramah dan produktif bagi semua anggota, kami meminta semua orang untuk mengikuti pedoman ini.
 
-## Code of Conduct
+## Kode Etik
 
-### Be Respectful
+### Bersikap Hormat
 
-- Treat all members with respect and courtesy
-- Welcome newcomers and help them feel included
-- Value diverse perspectives and experiences
-- Listen actively and thoughtfully
+- Perlakukan semua anggota dengan hormat dan sopan
+- Sambut anggota baru dan bantu mereka merasa diterima
+- Hargai perspektif dan pengalaman yang beragam
+- Dengarkan secara aktif dan penuh perhatian
 
-### Be Collaborative
+### Bersikap Kolaboratif
 
-- Share knowledge and resources freely
-- Provide constructive feedback
-- Help others learn and grow
-- Acknowledge the contributions of others
+- Bagikan pengetahuan dan sumber daya secara bebas
+- Berikan umpan balik yang konstruktif
+- Bantu orang lain belajar dan berkembang
+- Akui kontribusi orang lain
 
-### Be Professional
+### Bersikap Profesional
 
-- Keep discussions focused and on-topic
-- Avoid harassment, discrimination, or offensive behavior
-- Respect privacy and confidentiality
-- Use appropriate language
+- Jaga diskusi tetap fokus dan sesuai topik
+- Hindari pelecehan, diskriminasi, atau perilaku yang menyinggung
+- Hormati privasi dan kerahasiaan
+- Gunakan bahasa yang sopan
 
-## Participation Guidelines
+## Pedoman Partisipasi
 
-### Meetings and Events
+### Pertemuan dan Acara
 
-- Register for events when required
-- Arrive on time
-- Participate actively and constructively
-- Silence mobile devices during presentations
+- Daftar untuk acara jika diperlukan
+- Datang tepat waktu
+- Berpartisipasi secara aktif dan konstruktif
+- Matikan suara perangkat selama presentasi
 
-### Online Communication
+### Komunikasi Online
 
-- Be clear and concise in communications
-- Stay on topic in discussion channels
-- Use appropriate channels for different topics
-- Respect others' time and attention
+- Berkomunikasi dengan jelas dan ringkas
+- Tetap pada topik di saluran diskusi
+- Gunakan saluran yang sesuai untuk topik yang berbeda
+- Hormati waktu dan perhatian orang lain
 
-### Content Sharing
+### Berbagi Konten
 
-- Share only content you have rights to share
-- Give proper attribution to sources
-- Respect intellectual property rights
-- Follow open-source licensing principles
+- Bagikan hanya konten yang Anda miliki haknya
+- Berikan atribusi yang tepat kepada sumber
+- Hormati hak kekayaan intelektual
+- Ikuti prinsip lisensi open-source
 
-## Enforcement
+## Penegakan
 
-### Reporting Issues
+### Melaporkan Masalah
 
-If you experience or witness behavior that violates these guidelines:
-1. Contact any board member or organizer
-2. Send an email to [conduct@example.com]
-3. All reports will be handled confidentially
+Jika Anda mengalami atau menyaksikan perilaku yang melanggar pedoman ini:
+1. Hubungi pengurus atau penyelenggara mana pun
+2. Kirim email ke [conduct@example.com]
+3. Semua laporan akan ditangani secara rahasia
 
-### Consequences
+### Konsekuensi
 
-Violations may result in:
-- Warning and request to change behavior
-- Temporary suspension from events
-- Permanent removal from the group
+Pelanggaran dapat mengakibatkan:
+- Peringatan dan permintaan untuk mengubah perilaku
+- Penangguhan sementara dari acara
+- Penghapusan permanen dari grup
 
-## Membership
+## Keanggotaan
 
-### Joining
+### Bergabung
 
-- Membership is open to anyone interested in QGIS
-- No fees required (or specify if applicable)
-- Register via [registration link/process]
+- Keanggotaan terbuka untuk siapa saja yang tertarik dengan QGIS
+- Tidak ada biaya yang diperlukan (atau tentukan jika berlaku)
+- Daftar melalui [tautan/proses pendaftaran]
 
-### Responsibilities
+### Tanggung Jawab
 
-As a member, you are expected to:
-- Follow these rules and guidelines
-- Participate constructively
-- Support the group's mission
-- Contribute when able
+Sebagai anggota, Anda diharapkan untuk:
+- Mengikuti aturan dan pedoman ini
+- Berpartisipasi secara konstruktif
+- Mendukung misi grup
+- Berkontribusi bila mampu
 
-## Amendments
+## Perubahan
 
-These rules may be updated from time to time. Members will be notified of significant changes.
+Aturan ini dapat diperbarui dari waktu ke waktu. Anggota akan diberitahu tentang perubahan yang signifikan.
 
-**Last updated:** [Date]
+**Terakhir diperbarui:** [Tanggal]
 
-## Questions?
+## Pertanyaan?
 
-If you have questions about these rules, contact us at [contact@example.com]
+Jika Anda memiliki pertanyaan tentang aturan ini, hubungi kami di [contact@example.com]
 
 {{< content-end >}}

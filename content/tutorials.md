@@ -1,25 +1,25 @@
 ---
 type: "page"
-title: "Tutorials"
-subtitle: "Learn QGIS with practical guides"
+title: "Tutorial"
+subtitle: "Belajar QGIS dengan panduan praktis"
 draft: false
 sidebar: true
 ---
 
 {{< content-start >}}
 
-# Tutorials
+# Tutorial
 
-Practical QGIS tutorials, including local data, projections, and workflows.
+Tutorial QGIS praktis, termasuk data lokal, proyeksi, dan alur kerja.
 
 {{< columns-start >}}
 {{< column-start class="is-flex-direction-column is-full">}}
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-1" >}}
 
-- [Tutorial title] — [1–2 line summary of the tutorial and link]
-- [Tutorial title] — [1–2 line summary of the tutorial and link]
-- [Tutorial title] — [1–2 line summary of the tutorial and link]
+- [Judul tutorial] — [Ringkasan 1-2 baris tentang tutorial dan tautan]
+- [Judul tutorial] — [Ringkasan 1-2 baris tentang tutorial dan tautan]
+- [Judul tutorial] — [Ringkasan 1-2 baris tentang tutorial dan tautan]
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
@@ -28,9 +28,9 @@ Practical QGIS tutorials, including local data, projections, and workflows.
 
 {{< rich-box-start icon="📥" layoutClass="tips">}}
 {{< rich-content-start themeClass="coloring-1" >}}
-##### Contribute a Tutorial
+##### Kontribusi Tutorial
 
-Send tutorials or links to [tutorials@example.com].
+Kirim tutorial atau tautan ke [tutorial@example.com].
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}

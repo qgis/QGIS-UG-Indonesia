@@ -1,27 +1,27 @@
 ---
 type: "page"
-title: "QGIS [Country]"
-subtitle: "Connecting QGIS users in our community"
+title: "QGIS Indonesia"
+subtitle: "Menghubungkan pengguna QGIS di Indonesia"
 draft: false
 heroSize: "is-medium"
 heroLogo: "img/qgis_ch.png"
 HeroImage: "img/hegobg1.webp"
 HasBanner: true
 sidebar: true
-ButtonText: "Join Us!" 
+ButtonText: "Bergabung!" 
 ButtonLink: "/events/"
 ---
 
 {{< content-start >}}
 
-## Welcome to the QGIS User Group
+## Selamat Datang di QGIS Indonesia
 
-We are a community of QGIS users passionate about open-source geospatial technology. Our mission is to promote the use of QGIS, share knowledge, and support each other in our geospatial projects.
+Kami adalah komunitas pengguna QGIS di Indonesia yang bersemangat tentang teknologi geospasial open-source. Misi kami adalah mempromosikan penggunaan QGIS, berbagi pengetahuan, dan saling mendukung dalam proyek-proyek geospasial.
 
 {{< columns-start >}}
 {{< column-start class="is-flex-direction-column is-one-third left-title">}}
 
-## What We Do
+## Apa yang Kami Lakukan
 {{< column-end >}}
 
 
@@ -29,11 +29,11 @@ We are a community of QGIS users passionate about open-source geospatial technol
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-1" >}} 
 
-- Organize regular meetups and events
-- Share best practices and use cases
-- Provide support for QGIS users at all levels
-- Contribute to the QGIS project
-- Network with geospatial professionals
+- Menyelenggarakan pertemuan dan acara rutin
+- Berbagi praktik terbaik dan studi kasus
+- Memberikan dukungan untuk pengguna QGIS di semua tingkatan
+- Berkontribusi pada proyek QGIS
+- Membangun jaringan dengan profesional geospasial
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
@@ -45,16 +45,16 @@ We are a community of QGIS users passionate about open-source geospatial technol
 {{< columns-start class="mb-6">}}
 {{< column-start class="is-flex-direction-column is-one-third left-title">}}
 
-## Join Us
+## Bergabunglah
 {{< column-end >}}
 
 {{< column-start class="is-flex-direction-column is-two-thirds">}}
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-1" >}} 
 
-Whether you're a beginner or an experienced QGIS user, everyone is welcome. Join our events, participate in discussions, and help grow the community.
+Baik Anda pemula maupun pengguna QGIS berpengalaman, semua orang dipersilakan. Ikuti acara kami, berpartisipasi dalam diskusi, dan bantu kembangkan komunitas.
 
-[See our upcoming events](/events/)
+[Lihat acara mendatang](/events/)
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
@@ -62,8 +62,8 @@ Whether you're a beginner or an experienced QGIS user, everyone is welcome. Join
 {{< column-end >}}
 {{< columns-end >}}
 
-## Get Involved
+## Ikut Berkontribusi
 
-We welcome new members and contributors. Check out our [Rules](/rules/) page to learn about our community guidelines, and visit [About Us](/about-us/) to meet our team and volunteers.
+Kami menyambut anggota dan kontributor baru. Lihat halaman [Aturan](/rules/) untuk mempelajari pedoman komunitas kami, dan kunjungi [Tentang Kami](/about-us/) untuk mengenal tim dan sukarelawan kami.
 
 {{< content-end >}}

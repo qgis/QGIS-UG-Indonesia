@@ -1,31 +1,31 @@
 ---
 type: "page"
-title: "Events"
-subtitle: "Upcoming and past events"
+title: "Acara"
+subtitle: "Acara mendatang dan yang telah berlalu"
 draft: false
 sidebar: true
 ---
 
 {{< content-start >}}
 
-# Events
+# Acara
 
-Stay updated with our upcoming meetups, workshops, and conferences. Join us to learn, share, and network with fellow QGIS enthusiasts.
+Ikuti perkembangan pertemuan, lokakarya, dan konferensi kami. Bergabunglah untuk belajar, berbagi, dan membangun jaringan dengan sesama pengguna QGIS di Indonesia.
 
-## Upcoming Events
+## Acara Mendatang
 
 {{< rich-box-start layoutClass="has-right rounded" >}}
 {{< rich-content-start themeClass="coloring-2" >}}
-### QGIS User Group Meetup (Placeholder)
+### Pertemuan QGIS Indonesia (Placeholder)
 
-When: [Date]  
-Where: [City / Online]
+Kapan: [Tanggal]  
+Di mana: [Kota / Online]
 
-{{< button class = "is-primary1" link = "https://usergroup.qgis.org/" text = "Learn more" >}} 
+{{< button class = "is-primary1" link = "https://id.qgis.org/" text = "Selengkapnya" >}} 
 
 {{< rich-content-end >}}
 {{< rich-right-start >}}
-![](https://usergroup.qgis.org/visualization_center.webp)
+![](https://id.qgis.org/visualization_center.webp)
 {{< rich-right-end >}}
 {{< rich-box-end >}}
 
@@ -36,17 +36,17 @@ Where: [City / Online]
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-1">}}
 
-### Regular Meetups
+### Pertemuan Rutin
 
-We organize regular meetups where members can:
-- Share their latest QGIS projects
-- Learn new techniques and workflows
-- Get help with QGIS challenges
-- Network with other users
+Kami menyelenggarakan pertemuan rutin di mana anggota dapat:
+- Berbagi proyek QGIS terbaru mereka
+- Mempelajari teknik dan alur kerja baru
+- Mendapatkan bantuan untuk tantangan QGIS
+- Membangun jaringan dengan pengguna lain
 
-**When:** [Add your meeting schedule]  
-**Where:** [Add your meeting location/online platform]  
-**Registration:** [Add registration information]
+**Kapan:** [Jadwal pertemuan]  
+**Di mana:** [Lokasi pertemuan / platform online]  
+**Pendaftaran:** [Informasi pendaftaran]
 
 
 {{< rich-content-end >}}
@@ -57,16 +57,16 @@ We organize regular meetups where members can:
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-1" >}}
 
-### Workshops & Training
+### Lokakarya & Pelatihan
 
-We regularly host hands-on workshops covering:
-- QGIS basics for beginners
-- Advanced analysis techniques
-- Plugin development
-- Cartography and visualization
-- Data processing workflows
+Kami secara rutin menyelenggarakan lokakarya praktis meliputi:
+- Dasar-dasar QGIS untuk pemula
+- Teknik analisis lanjutan
+- Pengembangan plugin
+- Kartografi dan visualisasi
+- Alur kerja pemrosesan data
 
-Check back regularly for upcoming workshop announcements.
+Pantau terus pengumuman lokakarya mendatang.
 
 
 {{< rich-content-end >}}
@@ -74,16 +74,16 @@ Check back regularly for upcoming workshop announcements.
 {{< column-end >}}
 {{< columns-end >}}
 
-## Past Events
+## Acara Sebelumnya
 
-[Add information about past events, presentations, or links to recordings]
+[Tambahkan informasi tentang acara sebelumnya, presentasi, atau tautan ke rekaman]
 
 
 {{< rich-box-start icon="💁" layoutClass="tips">}}
 {{< rich-content-start themeClass="coloring-1" >}}
-##### Get Involved
+##### Ikut Terlibat
 
-Want to present at our next meetup or organize an event? Contact us at [your-contact-email]
+Ingin presentasi di pertemuan berikutnya atau menyelenggarakan acara? Hubungi kami di [email-kontak]
 
 
 {{< rich-content-end >}}
