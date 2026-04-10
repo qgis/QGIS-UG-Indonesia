@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="has-navbar-fixed-top">
+<html lang="en">
     <head>
         <meta charset="utf-8" />
 
@@ -173,11 +173,7 @@
         {{/* Search needs to be rendered as a template to ensure urls are correct */}}
         {{ $searchjs := resources.Get "js/search.js" | resources.ExecuteAsTemplate "search.js" . | resources.Minify | resources.Fingerprint }}
         <script defer src="{{ $searchjs.RelPermalink }}"></script>
-        <script
-            crossorigin=""
-            type="application/javascript"
-            src="{{ .Site.Params.uniNavHeaderUrl }}"
-        ></script>
+        {{/* qgis.org uni-nav script removed — local navbar only */}}
     </head>
 
     <body></body>
