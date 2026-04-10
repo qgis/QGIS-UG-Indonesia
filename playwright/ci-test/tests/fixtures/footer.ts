@@ -58,15 +58,15 @@ export class Footer {
         });
         this.donateLink = this.banner.getByRole("link", { name: "Donate" });
         this.logoImage = this.page.getByRole("img", { name: "Logo" });
-        this.facebookLink = this.page.getByRole("link", { name: "" });
-        this.youtubeLink = this.page.getByRole("link", { name: "" });
-        this.instagramLink = this.page
-            .locator("div:nth-child(2) > div:nth-child(2) > a:nth-child(3)")
-            .first();
-        this.ghLink = this.page.getByRole("link", { name: "" });
-        this.telegramLink = this.page
-            .locator("div:nth-child(2) > div:nth-child(2) > a:nth-child(5)")
-            .first();
-        this.mailLink = this.page.getByRole("link", { name: "" });
+
+        const socialIcons = this.banner.locator(".social-icons-links");
+        this.facebookLink = socialIcons.locator(
+            'a[href*="facebook.com/qgisid"]',
+        );
+        this.youtubeLink = socialIcons.locator('a[href*="youtube.com"]');
+        this.instagramLink = socialIcons.locator('a[href*="instagram.com"]');
+        this.ghLink = socialIcons.locator('a[href*="github.com"]');
+        this.telegramLink = socialIcons.locator('a[href*="t.me"]');
+        this.mailLink = socialIcons.locator('a[href*="mailto:"]');
     }
 }
