@@ -2,10 +2,11 @@
   lib,
   stdenv,
   hugo,
+  theme,
 }:
 
 stdenv.mkDerivation {
-  name = "qgis-user-group-website";
+  name = "qgis-user-group-indonesia";
 
   src = lib.cleanSourceWith {
     src = ../.;
