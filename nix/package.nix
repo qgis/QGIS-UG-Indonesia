@@ -25,6 +25,9 @@ stdenv.mkDerivation {
   buildInputs = [ hugo ];
 
   buildPhase = ''
+    mkdir -p themes
+    rm -rf themes/qgis-website-theme
+    ln -s ${theme} themes/qgis-website-theme
     hugo --config config.toml,config/config.prod.toml
   '';
 
