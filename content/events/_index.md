@@ -1,5 +1,4 @@
 ---
-type: "page"
 title: "Acara"
 subtitle: "Acara mendatang dan yang telah berlalu"
 draft: false
@@ -14,19 +13,7 @@ Ikuti perkembangan pertemuan, lokakarya, dan konferensi kami. Bergabunglah untuk
 
 ## Acara Mendatang
 
-{{< rich-box-start layoutClass="has-right rounded" >}}
-{{< rich-content-start themeClass="coloring-2" >}}
-### Segera hadir
-
-Pantau terus kanal komunikasi kami untuk informasi acara mendatang.
-
-{{< button class = "is-primary1" link = "https://t.me/qgisindonesia" text = "Gabung Telegram" >}} 
-
-{{< rich-content-end >}}
-{{< rich-right-start >}}
-![](/img/meetup-2.jpg)
-{{< rich-right-end >}}
-{{< rich-box-end >}}
+{{< upcoming-events >}}
 
 
 {{< columns-start >}}
@@ -43,9 +30,9 @@ Kami menyelenggarakan pertemuan rutin di mana anggota dapat:
 - Mendapatkan bantuan untuk tantangan QGIS
 - Membangun jaringan dengan pengguna lain
 
-**Kapan:** [Jadwal pertemuan]  
-**Di mana:** [Lokasi pertemuan / platform online]  
-**Pendaftaran:** [Informasi pendaftaran]
+**Kapan:** Jumat pertama setiap bulan, 16:30–17:00 WIB  
+**Di mana:** Online via Google Meet  
+**Pendaftaran:** Tidak perlu daftar, langsung gabung lewat tautan Google Meet
 
 
 {{< rich-content-end >}}

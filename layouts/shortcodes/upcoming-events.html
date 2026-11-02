@@ -1,0 +1,23 @@
+{{ $count := 0 }}
+{{ range .Page.Pages.ByParam "eventDate" }}
+{{ if ge (time .Params.eventDate).Unix now.Unix }}
+{{ $count = add $count 1 }}
+<div class="container rich has-right rounded">
+    <div class="cont coloring-2">
+        <h3>{{ .Title }}</h3>
+        <p>{{ .Description }}</p>
+        <a class="button is-primary1" href="{{ .RelPermalink }}"><span>Selengkapnya</span></a>
+    </div>
+    <div class="rich-right"><img src="{{ .Params.thumbnail | default "/img/meetup-2.jpg" }}" alt="{{ .Title }}"></div>
+</div>
+{{ end }}
+{{ end }}
+{{ if eq $count 0 }}
+<div class="container rich rounded">
+    <div class="cont coloring-2">
+        <h3>Segera hadir</h3>
+        <p>Pantau terus kanal komunikasi kami untuk informasi acara mendatang.</p>
+        <a class="button is-primary1" href="https://t.me/qgisindonesia"><span>Gabung Telegram</span></a>
+    </div>
+</div>
+{{ end }}
