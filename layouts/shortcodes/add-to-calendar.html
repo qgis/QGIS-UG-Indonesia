@@ -1,0 +1,21 @@
+{{ $p := .Page }}
+{{ $fmt := "20060102T150405Z" }}
+{{ $start := (time $p.Params.eventDate).UTC.Format $fmt }}
+{{ $end := (time $p.Params.eventEnd).UTC.Format $fmt }}
+{{ $ics := delimit (slice
+  "BEGIN:VCALENDAR" "VERSION:2.0" "PRODID:-//QGIS Indonesia//id.qgis.org//ID"
+  "BEGIN:VEVENT"
+  (printf "UID:%s@id.qgis.org" $p.File.ContentBaseName)
+  (printf "DTSTAMP:%s" ($p.Date.UTC.Format $fmt))
+  (printf "DTSTART:%s" $start)
+  (printf "DTEND:%s" $end)
+  (printf "SUMMARY:%s" $p.Title)
+  (printf "LOCATION:%s" $p.Params.location)
+  (printf "URL:%s" $p.Permalink)
+  "END:VEVENT" "END:VCALENDAR" "") "\r\n" }}
+{{ $file := resources.FromString (printf "events/%s.ics" $p.File.ContentBaseName) $ics }}
+{{ $gcal := printf "https://calendar.google.com/calendar/render?action=TEMPLATE&text=%s&dates=%s/%s&location=%s&details=%s" (urlquery $p.Title) $start $end (urlquery $p.Params.location) (urlquery $p.Permalink) }}
+<div class="buttons">
+    <a class="button is-primary2" href="{{ $gcal }}" target="_blank" rel="noopener"><span>Tambah ke Google Calendar</span></a>
+    <a class="button is-primary2" href="{{ $file.RelPermalink }}" download><span>Unduh .ics (Outlook, Apple, dll.)</span></a>
+</div>
